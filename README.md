@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>hello everyone! My name is Charice Faye Gunawan, here are some more infoo</p>
 <ul>
   <li>Pronouns: She/Her</li>
-  <li>Grade: 8</li>li>
+  <li>Grade: 8</li>
   <li>School: Elyon Christian Secondary School</li>
   <li>Hobbies:</li>
     <li>Singing</li>
